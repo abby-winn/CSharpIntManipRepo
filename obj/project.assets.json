@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\jmwin\\.nuget\\packages\\": {}
+    "C:\\Users\\sueba\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jmwin\\Desktop\\Repositories\\CSharpIntManipProject\\CSharpIntManipRepo\\CSharpIntManipRepo.csproj",
+      "projectUniqueName": "C:\\Users\\sueba\\OneDrive\\Desktop\\CodeTheWay\\cSharpProject\\CSharpIntManipRepo\\CSharpIntManipRepo.csproj",
       "projectName": "CSharpIntManipRepo",
-      "projectPath": "C:\\Users\\jmwin\\Desktop\\Repositories\\CSharpIntManipProject\\CSharpIntManipRepo\\CSharpIntManipRepo.csproj",
-      "packagesPath": "C:\\Users\\jmwin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jmwin\\Desktop\\Repositories\\CSharpIntManipProject\\CSharpIntManipRepo\\obj\\",
+      "projectPath": "C:\\Users\\sueba\\OneDrive\\Desktop\\CodeTheWay\\cSharpProject\\CSharpIntManipRepo\\CSharpIntManipRepo.csproj",
+      "packagesPath": "C:\\Users\\sueba\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sueba\\OneDrive\\Desktop\\CodeTheWay\\cSharpProject\\CSharpIntManipRepo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jmwin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\sueba\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
