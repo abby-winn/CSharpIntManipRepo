@@ -140,7 +140,7 @@ namespace ConsoleTest
                     six(integers);
                 }
 
-                else
+                else if (userInput != 7)
                 {
                     Console.WriteLine("Invalid Response: Here are your options.");
                 }
