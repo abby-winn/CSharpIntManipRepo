@@ -26,6 +26,16 @@ namespace ConsoleTest {
                     Console.WriteLine(integers[i]);
                 }
             }
+        static void five(int[] integers){
+
+            int sum = 0;
+
+            for (int i = 0; i < integers.Length; i++){
+                sum += integers[i];
+            }
+
+            Console.WriteLine(sum);
+
         }
 
         static void four(int[] tempList){
@@ -36,6 +46,17 @@ namespace ConsoleTest {
                 }
             
         }
+
+        static void six(int[] integers){
+
+            for (int i = 0; i < integers.Length; i++){
+                if (integers[i] % 3 == 0){
+                    Console.WriteLine(integers[i]);
+                }
+            }
+
+        }
+
     }
 }
 
