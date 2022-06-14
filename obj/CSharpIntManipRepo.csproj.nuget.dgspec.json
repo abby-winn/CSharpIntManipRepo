@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jmwin\\Desktop\\Repositories\\CSharpIntManipProject\\CSharpIntManipRepo\\CSharpIntManipRepo.csproj": {}
+    "C:\\Users\\karti\\Desktop\\Repositories\\CSharpIntManipRepo\\CSharpIntManipRepo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jmwin\\Desktop\\Repositories\\CSharpIntManipProject\\CSharpIntManipRepo\\CSharpIntManipRepo.csproj": {
+    "C:\\Users\\karti\\Desktop\\Repositories\\CSharpIntManipRepo\\CSharpIntManipRepo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jmwin\\Desktop\\Repositories\\CSharpIntManipProject\\CSharpIntManipRepo\\CSharpIntManipRepo.csproj",
+        "projectUniqueName": "C:\\Users\\karti\\Desktop\\Repositories\\CSharpIntManipRepo\\CSharpIntManipRepo.csproj",
         "projectName": "CSharpIntManipRepo",
-        "projectPath": "C:\\Users\\jmwin\\Desktop\\Repositories\\CSharpIntManipProject\\CSharpIntManipRepo\\CSharpIntManipRepo.csproj",
-        "packagesPath": "C:\\Users\\jmwin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jmwin\\Desktop\\Repositories\\CSharpIntManipProject\\CSharpIntManipRepo\\obj\\",
+        "projectPath": "C:\\Users\\karti\\Desktop\\Repositories\\CSharpIntManipRepo\\CSharpIntManipRepo.csproj",
+        "packagesPath": "C:\\Users\\karti\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\karti\\Desktop\\Repositories\\CSharpIntManipRepo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jmwin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\karti\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
