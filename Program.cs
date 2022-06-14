@@ -1,15 +1,25 @@
-﻿using System;
+﻿// See https://aka.ms/new-console-template for more information
+
+using System;
 
 namespace ConsoleTest {
     class Program {
         static void Main(string[] args) {
 
-            //Write something here to recieve user input
+            Console.WriteLine("How many intergers do you want?");
+            int desiredNum = Console.ReadLine();
 
-            //Convert user input to an int array here
+            int[] integers = new int[desiredNum];
 
-            //Put menu for user to choose from here along with any needed code to make the options work
+            for(int i = 0; i < desiredNum; i++){
+                Console.WriteLine("Please type an integer.");
+                int desiredInt = Console.ReadLine();
+                integers[i] == desiredInt;
+            }
+
 
         }
     }
 }
+
+
